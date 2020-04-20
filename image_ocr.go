@@ -7,7 +7,7 @@ import (
 	"io"
 	"sync"
 
-	"github.com/otiai10/gosseract/v2/gosseract"
+	"github.com/otiai10/gosseract/v2"
 )
 
 var langs = struct {
